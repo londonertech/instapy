@@ -1,2 +1,2 @@
-# createproxy
-This Repo is used for proxy creation with Vultr.
+# instapy
+This Repo is used for instapy.
